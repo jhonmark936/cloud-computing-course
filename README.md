@@ -18,21 +18,6 @@ This repository serves as my organized workspace for all course requirements, in
 - **Instructor:** Jenkielyn Cortez Torres
 - **School Year:** 2026–2027
 
----
-
-## 📂 Repository Structure
-
-```text
-cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
-└── README.md
-```
-
----
-
 ## 📖 Key Concepts Covered
 
 - Cloud Computing Basics
