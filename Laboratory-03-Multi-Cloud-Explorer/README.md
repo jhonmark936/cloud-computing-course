@@ -3,8 +3,11 @@
 ## Mission 3: Become a Multi-Cloud Explorer
 
 **Student:** Jhonmark R. Quitalig
+
 **Course:** BSIT
+
 **Laboratory:** Cloud Computing
+
 **Activity:** Laboratory Activity 3
 
 ---
