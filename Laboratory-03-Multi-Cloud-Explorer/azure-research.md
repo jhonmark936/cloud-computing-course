@@ -14,9 +14,8 @@ The Azure Portal is a web-based management interface for Azure services. Adminis
 
 **Screenshot Evidence:**
 
-> Insert your screenshot of the Microsoft Azure Portal here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f3e541b-2c10-47d5-a87e-71719fd84cc8" />
 
-![Microsoft Azure Portal Screenshot](images/azure-portal.png)
 
 ## 4. Four Core Services
 
