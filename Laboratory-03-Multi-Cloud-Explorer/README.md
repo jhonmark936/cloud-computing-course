@@ -82,7 +82,8 @@ free -h
 
 **Screenshot:**
 
-![Linux Memory Information](images/linux-memory.png)
+<img width="1920" height="1080" alt="linux-memory" src="https://github.com/user-attachments/assets/0ac09b94-14b7-4477-b540-75e492adc1d0" />
+
 
 ## Disk Space
 
@@ -92,9 +93,10 @@ Command used:
 df -h
 ```
 
-**Screenshot:**
+<img width="1920" height="1080" alt="linux-disk" src="https://github.com/user-attachments/assets/9c62b79a-18c7-4158-a8b0-109cc6cdcb05" />
 
-![Linux Disk Information](images/linux-disk.png)
+
+
 
 ---
 
